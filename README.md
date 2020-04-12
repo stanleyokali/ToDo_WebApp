@@ -1,6 +1,6 @@
 # React Todo App
 
-This is a sample react todo app done step-by-step.
+This is a sample react ToDo app done step-by-step.
 This sample app was a part of react workshop.
 
 Check the demo hosted on heroku https://simplest-react-todo-app.herokuapp.com/.
